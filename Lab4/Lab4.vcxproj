@@ -151,7 +151,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Menu.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Task1.h" />
+    <ClInclude Include="Task2.h" />
+    <ClInclude Include="Task3.h" />
+    <ClInclude Include="Task4.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lab4.cpp" />
